@@ -40,7 +40,7 @@ Minha jornada na tecnologia foca em transformar variáveis do mundo físico em s
 | Projeto | Descrição | Repositório |
 | :--- | :--- | :--- |
 | **Engenharia de Soluções Lógicas** | Modelagem de problemas complexos através de algoritmos estruturados. | [Ver Projeto](https://github.com/viniciusmarquesmelo/portifolio-vinicius-marques-de-meloo/tree/384109e9ca6bb85e11a0b4022c57572d21d49c5d/Projeto-engenharia-de-solu%C3%A7%C3%B5es-l%C3%B3gicas) |
-| **Traduzindo Lógica para Python** | Implementação técnica de fluxogramas e pseudocódigos na linguagem Python. | [Ver Projeto]() |
+| **Traduzindo Lógica para Python** | Implementação técnica de fluxogramas e pseudocódigos na linguagem Python. | [Ver Projeto](https://github.com/viniciusmarquesmelo/portifolio-vinicius-marques-de-meloo/tree/9309c4e1e572c40b34af4538a930885033d6be93/Projeto-traduzindo-l%C3%B3gica-para-python) |
 | **Modularização** | Organização de sistemas em módulos independentes para facilitar a manutenção e escalabilidade. | [Ver Projeto](https://github.com/dark60895-cpu/Portifolio-Guilherme-da-silva-ferreira-batista/tree/main/Projeto-Modularização) |
 
 #### 🌐 Contexto Físico e Auditoria de Dados
