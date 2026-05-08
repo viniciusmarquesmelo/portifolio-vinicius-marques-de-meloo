@@ -61,6 +61,7 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 - `/projeto-auditoria/`: Pasta contendo notebooks de análise financeira.
 - `/engenharia-contexto/`: Documentação sobre lógica aplicada a variáveis físicas.
 - `/fluxogramas/`: Arquivos visuais que detalham a lógica de decisão dos sistemas desenvolvidos.
+- `/projeto-sistema de auditoria/`: Pasta contém sistema análise financeira.
 
 ---
 *“A programação me deu a clareza de que falhas são apenas erros de parâmetro que podem ser ajustados.”*
