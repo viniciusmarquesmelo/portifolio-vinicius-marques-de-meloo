@@ -49,7 +49,7 @@ Minha jornada na tecnologia foca em transformar variáveis do mundo físico em s
 | **Engenharia de Contexto e Lógica Física** | Algoritmo de navegação espacial que mapeia ambientes reais em nós de decisão. | [Ver Projeto](https://github.com/viniciusmarquesmelo/portifolio-vinicius-marques-de-meloo/tree/4ab36460433268985e0246735bffc8e6cbd8eacd/Projeto-engenharia-de-contexto-e-l%C3%B3gica-f%C3%ADsica) |
 | **Auditoria de Dados** | Sistema focado na verificação de integridade e processamento de grandes volumes de dados. | [Ver Projeto](https://github.com/viniciusmarquesmelo/portifolio-vinicius-marques-de-meloo/tree/4ab36460433268985e0246735bffc8e6cbd8eacd/Projeto-algoritmo-de-auditoria-de%20-dados) |
 | **Desenhando Emojis com Dados** | Exploração de lógica de matrizes para representação visual e manipulação de dados. | [Ver Projeto](https://github.com/viniciusmarquesmelo/portifolio-vinicius-marques-de-meloo/tree/4ab36460433268985e0246735bffc8e6cbd8eacd/Projeto-desenhando-emojis-com-dados) |
-| **Sistema de auditoria** | Desenvolvimento de sistemas em foco de auditorias. | [Ver Projeto](https://github.com/viniciusmarquesmelo/portifolio-vinicius-marques-de-meloo/tree/4ab36460433268985e0246735bffc8e6cbd8eacd/Projeto-desenhando-emojis-com-dados) |
+| **Sistema de auditoria** | Desenvolvimento de sistemas em foco de auditorias. | [Ver Projeto] (https://github.com/viniciusmarquesmelo/portfolio-vinicius-marques-de-melo/tree/main/Projeto-sistema-de-auditoria) |
 
 
 ---
