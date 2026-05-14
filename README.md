@@ -60,10 +60,11 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 - `root/`: Arquivo de apresentação principal e currículo em PDF.
 - `/projeto-auditoria/`: Pasta contendo notebooks de análise financeira.
 - `/engenharia-contexto/`: Documentação sobre lógica aplicada a variáveis físicas.
+- `/Traduzindo Lógica para Python/`: Implementação técnica de fluxogramas e pseudocódigos na linguagem Python.
 - `/fluxogramas/`: Arquivos visuais que detalham a lógica de decisão dos sistemas desenvolvidos.
 - `/projeto-sistema de auditoria/`: Pasta contém sistema análise financeira.
 - `/Modularização/`: Organização de sistemas em módulos independentes para facilitar a manutenção e escalabilidade.
-- `/Desenhando Emojis com Dados/` : Exploração de lógica de matrizes para representação visual e manipulação de dados.
+- `/Desenhando Emojis com Dados/`: Exploração de lógica de matrizes para representação visual e manipulação de dados.
 
 ---
 *“A programação me deu a clareza de que falhas são apenas erros de parâmetro que podem ser ajustados.”*
